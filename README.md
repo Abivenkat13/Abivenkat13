@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm V Abishek
+# 👋 Hii I'm V Abishek
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4E94F7&center=true&vCenter=true&width=600&lines=Software+Developer+in+Training;B.Tech+CSE+Student+at+Karunya+Institute;Python+Enthusiast;Problem+Solver" alt="Typing SVG" />
