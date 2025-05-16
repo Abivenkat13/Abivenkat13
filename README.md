@@ -1,10 +1,11 @@
-# 👋 Hii I'm V Abishek
+# 👋 Hi I'm V Abishek
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4E94F7&center=true&vCenter=true&width=600&lines=Software+Developer+in+Training;B.Tech+CSE+Student+at+Karunya+Institute;Python+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vabishek13)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishekvenkatchalam2007@gmail.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/VQUNw9RTDb/)
 </div>
 
 ## 💫 About Me
@@ -29,6 +30,7 @@ I'm a motivated B.Tech Computer Science student with a passion for software deve
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abivenkat13&show_icons=true&theme=tokyonight" alt="Abishek's GitHub stats" />
+  <img src="https://leetcode-stats-six.vercel.app/?username=VQUNw9RTDb&theme=dark" alt="Abishek's LeetCode Stats"/>
 </div>
 
 ## 🌟 Featured Projects
@@ -62,4 +64,3 @@ I'm always open to collaborating on projects, learning opportunities, or just ha
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
-
