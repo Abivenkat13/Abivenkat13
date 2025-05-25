@@ -1,91 +1,82 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=V%20ABISHEK&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&animation=fadeIn"/>
 </div>
-
-<h1 align="center">Software Developer | Python Specialist | Data Enthusiast</h1>
-
+<h1 align="center">Software Developer | Data Scientist | Cyber Security Enthusiast</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+elegant+solutions+with+Python;Transforming+data+into+insights;9.68+CGPA+achiever+%7C+Always+learning;Passionate+about+clean%2C+efficient+code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+secure+%26+scalable+solutions;Transforming+data+into+insights;Protecting+digital+ecosystems;9.68+CGPA+achiever+%7C+Always+learning" alt="Typing Animation" />
 </p>
-
 <div align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" />
-  <img width="15" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" />
-  <img width="15" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" />
-  <img width="15" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" />
-  <img width="15" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" />
-  <img width="15" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" />
-  <img width="15" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
-  <img width="15" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
-  <img width="15" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" />
+  <img width="12" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" />
+  <img width="12" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" />
+  <img width="12" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" />
+  <img width="12" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" />
+  <img width="12" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" />
+  <img width="12" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
+  <img width="12" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
+  <img width="12" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" />
 </div>
+<br>
+<h3 align="center">💫 "Secure code is elegant code - building tomorrow's digital foundation today" 💫</h3>
+<br>
+🚀 About Me
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+🎯 Current Focus
 
-<h3 align="center">💫 "Code is like art - it should be elegant, efficient, and inspiring" 💫</h3>
+🐍 Python Development - Advanced frameworks & optimization
+📊 Data Science - ML algorithms & statistical analysis
+🔒 Cyber Security - Threat analysis & secure coding
+🏗️ Software Architecture - Scalable system design
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abivenkat13&theme=react-dark&bg_color=1a1b27&color=6A5ACD&line=6A5ACD&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
+💡 What Drives Me
 
-<h2 align="center">🚀 About This Developer</h2>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-🎯 Current Focus:
-
-🐍 Mastering Python ecosystem & advanced concepts
-📊 Diving deep into Data Science & Analytics
-🏗️ Building scalable software solutions
-🤝 Leading collaborative development projects
-
-💡 What Drives Me:
-
-✨ Writing clean, maintainable code
-🔍 Solving complex algorithmic challenges
-📈 Turning raw data into actionable insights
-🌱 Contributing to open source community
-</td>
-<td width="50%" valign="top">
+✨ Writing secure, maintainable code
+🔍 Solving complex security challenges
+📈 Extracting insights from complex datasets
+🌱 Contributing to open source security tools
+  </td>
+  <td width="50%" valign="top">
 
 
-🏆 Achievements:
+🏆 Achievements
 
 🎖️ 9.68 CGPA - Academic Excellence
 📜 IBM Certified - Data Science with Python
 🔧 Infosys Certified - Python Fundamentals
 💻 Cisco Certified - C Programming
 
-🌟 Leadership:
+🌟 Leadership & Impact
 
 👥 Project Lead - Fusion Tech Platform
 🌍 NSS Volunteer - Environmental Initiatives
-🤝 Mentor - Programming fundamentals
-</td>
-  </tr>
+🤝 Technical Mentor - Programming & Security
+🛡️ Security Advocate - Best practices evangelist
+  </td>
+</tr>
+
+
 </table>
-
-
-</div>
-
-<h2 align="center">📊 Performance Analytics</h2>
+<br>
+📊 GitHub Analytics
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Abivenkat13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff&border_radius=15" alt="GitHub Stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abivenkat13&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=ffffff&border_radius=15" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abivenkat13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abivenkat13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9&border_radius=12"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abivenkat13&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6A5ACD&ring=6A5ACD&fire=ff6b6b&currStreakLabel=6A5ACD&border_radius=15" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abivenkat13&theme=tokyonight&hide_border=true&background=0d1117&stroke=6A5ACD&ring=6A5ACD&fire=ff6b6b&currStreakLabel=6A5ACD&border_radius=12"/>
 </div>
-
-<h2 align="center">🐍 Contribution Snake</h2>
+<br>
+🐍 Contribution Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -93,75 +84,100 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<h2 align="center">💼 Featured Projects</h2>
+<br>
+💼 Featured Projects
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abivenkat13&repo=fusion-tech&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=ffffff&border_radius=15" alt="Fusion Tech Project"/>
+      <td align="center" width="40%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abivenkat13&repo=fusion-tech&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9&border_radius=12"/>
       </td>
-      <td align="center" width="50%">
+      <td width="60%" valign="top">
 🚀 Fusion Tech Platform
-Mobile Customization Revolution
-Role: Lead Developer & Project Manager
-Impact: Enhanced user experience for 100+ customers
-Technologies: Python, UI/UX Design, Data Analytics
-✅ Customer feedback integration
-✅ Personalized feature recommendations
-✅ Real-time customization preview
-✅ Cross-platform compatibility
+Mobile Customization & Security Solution
+Role: Lead Developer & Security Architect
+Impact: Enhanced user experience for 100+ customers with secure customization
+Tech Stack: Python, Security Framework, Data Analytics, UI/UX
+Key Features:
+
+✅ Secure customer data handling
+✅ Real-time threat monitoring
+✅ Personalized security recommendations
+✅ Cross-platform secure deployment
+</td>
+  </tr>
+</table>
+
+
+</div>
+<br>
+🧩 Problem Solving & Security Research
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=VQUNw9RTDb&theme=dark&border_radius=12"/>
+</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+💡 Problem Solving Approach
+
+🔍 Deep Analysis - Understanding root causes
+📝 Secure Design - Security-first architecture
+⚡ Efficient Implementation - Optimized solutions
+🧪 Penetration Testing - Vulnerability assessment
+  </td>
+  <td width="50%" align="center">
+
+
+🎯 Expertise Areas
+
+🔢 Algorithms & Data Structures
+🛡️ Security Architecture & Analysis
+🐍 Python Performance Optimization
+📊 Data Science & ML Security
   </td>
 </tr>
-  </table>
-</div>
 
-<h2 align="center">🧩 Problem Solving Journey</h2>
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=VQUNw9RTDb&theme=dark&border_radius=15" alt="LeetCode Stats"/>
-</div>
-<div align="center">
-💡 Problem Solving Approach🎯 Focus Areas🔍 Analyze the problem deeply🔢 Algorithms & Data Structures📝 Design elegant solutions🐍 Python optimization techniques⚡ Implement efficiently📊 Data Analysis challenges🧪 Test thoroughly🏆 Competitive Programming
-</div>
 
-<h2 align="center">🎓 Certifications & Learning</h2>
+</table>
+<br>
+🎓 Certifications & Continuous Learning
 <div align="center">
-  <img src="https://img.shields.io/badge/IBM-Data_Science_with_Python-0052CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certification"/>
-  <img src="https://img.shields.io/badge/Infosys-Python_Fundamentals-FF6B35?style=for-the-badge&logo=infosys&logoColor=white" alt="Infosys Certification"/>
-  <img src="https://img.shields.io/badge/Cisco-C_Programming-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification"/>
+  <img src="https://img.shields.io/badge/IBM-Data_Science_with_Python-0052CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
+  <img src="https://img.shields.io/badge/Infosys-Python_Fundamentals-FF6B35?style=for-the-badge&logo=infosys&logoColor=white" alt="Infosys"/>
+  <img src="https://img.shields.io/badge/Cisco-C_Programming-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </div>
 <div align="center">
-🎯 Currently Learning: Cyber Security, Machine Learning, Cloud Computing
-
+🎯 Currently Pursuing
+Advanced Cyber Security | Machine Learning Security | Cloud Security Architecture
 </div>
-
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+<br>
+🤝 Let's Connect & Build Secure Solutions
 <div align="center">
   <a href="https://www.linkedin.com/in/vabishek13">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=15" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abishekvenkatchalam2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=15" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://leetcode.com/u/VQUNw9RTDb/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&border_radius=15" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
-
-<h2 align="center">💝 Support My Journey</h2>
+<br>
+💫 Collaboration & Innovation
 <p align="center">
-  🌟 <strong>Star my repositories</strong> if you find them interesting!<br>
-  🤝 <strong>Collaborate</strong> on exciting projects and innovations<br>
-  💬 <strong>Connect</strong> for mentorship, opportunities, or just tech talks<br>
-  🚀 <strong>Let's build</strong> something amazing together!
+  🌟 <strong>Star my repositories</strong> if you find them valuable!<br>
+  🤝 <strong>Collaborate</strong> on security-focused projects and data science innovations<br>
+  💬 <strong>Connect</strong> for mentorship, career opportunities, or technical discussions<br>
+  🚀 <strong>Let's build</strong> secure, intelligent solutions together!
 </p>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process&author=Bruce%20Schneier" alt="Security Quote"/>
 </div>
-
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abivenkat13&style=for-the-badge&color=6A5ACD&label=Profile+Views" alt="Profile Views"/>
 </div>
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&animation=fadeIn"/>
 </div>
