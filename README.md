@@ -1,190 +1,167 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=V%20ABISHEK&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=V%20ABISHEK&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+</div>
+
+<h1 align="center">Software Developer | Python Specialist | Data Enthusiast</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+elegant+solutions+with+Python;Transforming+data+into+insights;9.68+CGPA+achiever+%7C+Always+learning;Passionate+about+clean%2C+efficient+code" alt="Typing Animation" />
+</p>
+
+<div align="center">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" />
+  <img width="15" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" />
+  <img width="15" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" />
+  <img width="15" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" />
+  <img width="15" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" />
+  <img width="15" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" />
+  <img width="15" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
+  <img width="15" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
+  <img width="15" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" />
+</div>
+
+<h3 align="center">💫 "Code is like art - it should be elegant, efficient, and inspiring" 💫</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abivenkat13&theme=react-dark&bg_color=1a1b27&color=6A5ACD&line=6A5ACD&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<h2 align="center">🚀 About This Developer</h2>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+🎯 Current Focus:
+
+🐍 Mastering Python ecosystem & advanced concepts
+📊 Diving deep into Data Science & Analytics
+🏗️ Building scalable software solutions
+🤝 Leading collaborative development projects
+
+💡 What Drives Me:
+
+✨ Writing clean, maintainable code
+🔍 Solving complex algorithmic challenges
+📈 Turning raw data into actionable insights
+🌱 Contributing to open source community
+</td>
+<td width="50%" valign="top">
+
+
+🏆 Achievements:
+
+🎖️ 9.68 CGPA - Academic Excellence
+📜 IBM Certified - Data Science with Python
+🔧 Infosys Certified - Python Fundamentals
+💻 Cisco Certified - C Programming
+
+🌟 Leadership:
+
+👥 Project Lead - Fusion Tech Platform
+🌍 NSS Volunteer - Environmental Initiatives
+🤝 Mentor - Programming fundamentals
+</td>
+  </tr>
+</table>
+
+
+</div>
+
+<h2 align="center">📊 Performance Analytics</h2>
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Abivenkat13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff&border_radius=15" alt="GitHub Stats"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abivenkat13&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=ffffff&border_radius=15" alt="Top Languages"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+SOFTWARE+DEVELOPER;🐍+PYTHON+SPECIALIST;💡+PROBLEM+SOLVING+EXPERT;🎯+DATA+ANALYSIS+ENTHUSIAST;⚡+INNOVATION+DRIVEN" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abivenkat13&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6A5ACD&ring=6A5ACD&fire=ff6b6b&currStreakLabel=6A5ACD&border_radius=15" alt="GitHub Streak"/>
 </div>
+
+<h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-🛠️ TECH ARSENAL
+
+<h2 align="center">💼 Featured Projects</h2>
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br><strong>Python</strong>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abivenkat13&repo=fusion-tech&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=ffffff&border_radius=15" alt="Fusion Tech Project"/>
       </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
-        <br><strong>C</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="65" alt="pandas logo"  />
-        <br><strong>Pandas</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="65" alt="numpy logo"  />
-        <br><strong>NumPy</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="65" alt="jupyter logo"  />
-        <br><strong>Jupyter</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" />
-        <br><strong>MySQL</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" />
-        <br><strong>Git</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="65" alt="vscode logo"  />
-        <br><strong>VS Code</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" alt="linux logo"  />
-        <br><strong>Linux</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ecec2.gif" width="65" />
-        <br><strong>Algorithms</strong>
-      </td>
-    </tr>
+      <td align="center" width="50%">
+🚀 Fusion Tech Platform
+Mobile Customization Revolution
+Role: Lead Developer & Project Manager
+Impact: Enhanced user experience for 100+ customers
+Technologies: Python, UI/UX Design, Data Analytics
+✅ Customer feedback integration
+✅ Personalized feature recommendations
+✅ Real-time customization preview
+✅ Cross-platform compatibility
+  </td>
+</tr>
   </table>
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-🎯 ABOUT ME
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</div>
-pythonclass VAbishek:
-    def __init__(self):
-        self.username = "Abivenkat13"
-        self.role = "Software Developer"
-        self.language_spoken = ["ta_IN", "en_US"]
-        self.current_cgpa = 9.68
-        
-    def get_current_work(self):
-        return {
-            "learning": ["Advanced Python", "Data Science"],
-            "building": ["Fusion Tech Platform", "Data Analysis Tools"],
-            "contributing": ["Open Source", "Community Projects"],
-            "volunteering": ["NSS Environmental Initiatives"]
-        }
-    
-    def get_passion(self):
-        return [
-            "🔥 Building elegant solutions",
-            "📊 Transforming data into insights", 
-            "🤝 Collaborating with amazing developers",
-            "🌱 Making positive environmental impact"
-        ]
-<br clear="both">
-🚀 GITHUB STATISTICS
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abivenkat13&show_icons=true&theme=neon&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abivenkat13&layout=compact&langs_count=8&theme=neon&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_radius=10"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abivenkat13&theme=neon-dark&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=10" alt="streak stats"/>
-</div>
-🐍 CONTRIBUTION SNAKE
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Game"/>
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-🏆 ACHIEVEMENTS & CERTIFICATIONS
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-        <br><strong>Academic Excellence</strong>
-        <br>CGPA: 9.68/10.0
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100">
-        <br><strong>IBM Certified</strong>
-        <br>Data Science with Python
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
-        <br><strong>Infosys Certified</strong>
-        <br>Python Functions
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100">
-        <br><strong>Cisco Certified</strong>
-        <br>C Programming
-      </td>
-    </tr>
-  </table>
-</div>
-💼 FEATURED PROJECTS
-<div align="center">
-Show Image
-</div>
-<details>
-<summary><b>🚀 Fusion Tech - Mobile Customization Platform</b></summary>
-📱 Project Overview:
-├── 🎯 Purpose: Revolutionary mobile phone customization experience
-├── 👥 Role: Core Developer & Project Lead
-├── 🛠️ Technologies: Python, UI/UX Design, User Research
-├── 📊 Impact: Enhanced personalization for 100+ users
-├── 🏆 Achievement: Successfully delivered within timeline
-└── 🔄 Status: Continuous improvement based on feedback
-Key Features:
 
-🎨 Advanced customization algorithms
-📊 Data-driven feature recommendations
-🔧 Real-time preview system
-📱 Cross-platform compatibility
+<h2 align="center">🧩 Problem Solving Journey</h2>
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=VQUNw9RTDb&theme=dark&border_radius=15" alt="LeetCode Stats"/>
+</div>
+<div align="center">
+💡 Problem Solving Approach🎯 Focus Areas🔍 Analyze the problem deeply🔢 Algorithms & Data Structures📝 Design elegant solutions🐍 Python optimization techniques⚡ Implement efficiently📊 Data Analysis challenges🧪 Test thoroughly🏆 Competitive Programming
+</div>
 
-</details>
-🧩 LEETCODE JOURNEY
+<h2 align="center">🎓 Certifications & Learning</h2>
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=VQUNw9RTDb&theme=dark" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/IBM-Data_Science_with_Python-0052CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certification"/>
+  <img src="https://img.shields.io/badge/Infosys-Python_Fundamentals-FF6B35?style=for-the-badge&logo=infosys&logoColor=white" alt="Infosys Certification"/>
+  <img src="https://img.shields.io/badge/Cisco-C_Programming-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification"/>
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9754-4ce0e4737f31.gif" width="200">
-Problem Solving Philosophy:
-"Every algorithm tells a story, every bug teaches a lesson, and every solution opens a new possibility."
+🎯 Currently Learning: Cyber Security, Machine Learning, Cloud Computing
+
 </div>
-🌐 CONNECT WITH ME
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284075-2febfdbf-de42-4d71-be98-85dc87b8eed6.gif" width="100">
-</div>
+
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/vabishek13">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=15" alt="LinkedIn"/>
   </a>
   <a href="mailto:abishekvenkatchalam2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=15" alt="Email"/>
   </a>
   <a href="https://leetcode.com/u/VQUNw9RTDb/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&border_radius=15" alt="LeetCode"/>
   </a>
 </div>
+
+<h2 align="center">💝 Support My Journey</h2>
+<p align="center">
+  🌟 <strong>Star my repositories</strong> if you find them interesting!<br>
+  🤝 <strong>Collaborate</strong> on exciting projects and innovations<br>
+  💬 <strong>Connect</strong> for mentorship, opportunities, or just tech talks<br>
+  🚀 <strong>Let's build</strong> something amazing together!
+</p>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
-Let's collaborate and build something amazing together!
-  <img src="https://komarev.com/ghpvc/?username=Abivenkat13&color=00d4ff&style=for-the-badge&label=Profile+Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote"/>
 </div>
-🎮 INTERACTIVE ZONE
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-🎯 Quick Stats:
-├── ☕ Cups of coffee consumed: 1000+
-├── 🐛 Bugs fixed: Countless
-├── 💡 Ideas generated: Always flowing
-├── 🤝 Collaborations: Open for more
-└── 🚀 Dreams: Building the future
-  <img src="https://readme-jokes-api.vercel.app/api?theme=dark&hideBorder" alt="Jokes Card" />
+  <img src="https://komarev.com/ghpvc/?username=Abivenkat13&style=for-the-badge&color=6A5ACD&label=Profile+Views" alt="Profile Views"/>
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn"/>
 </div>
